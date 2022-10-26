@@ -1,0 +1,3 @@
+= RPG Common
+
+Common Java code for roleplaying game projects.
