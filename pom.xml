@@ -3,7 +3,7 @@
 
 	<groupId>de.oliverkniffel</groupId>
 	<artifactId>rpg-common</artifactId>
-	<version>1.1-SNAPSHOT</version>
+	<version>1.2-SNAPSHOT</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
