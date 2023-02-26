@@ -3,7 +3,7 @@
 
 	<groupId>de.oliverkniffel</groupId>
 	<artifactId>rpg-common</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>1.2</version>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -17,7 +17,7 @@
 	<scm>
 		<connection>scm:git:https://github.com/oliverkniffel/rpg-common.git</connection>
 		<developerConnection>scm:git:https://github.com/oliverkniffel/rpg-common.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>rpg-common-1.2</tag>
 	</scm>
 
 	<distributionManagement>
