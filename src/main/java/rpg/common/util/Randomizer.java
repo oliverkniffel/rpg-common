@@ -7,8 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import com.google.common.base.Preconditions;
-
 /**
  * Helper class for randomization.
  * 
